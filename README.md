@@ -16,7 +16,7 @@ This project is a fully responsive and modern portfolio website built entirely f
   Easily navigate through sections using floating navigation dots.
 
 - 🏠 **Expandable Home Button**  
-  The home button expands to reveal quick navigation links.
+  The home button expands to quickly return to the hero section.
 
 - 🌗 **Dark & Light Mode Toggle**  
   Allows users to switch between dark and light themes effortlessly.
@@ -60,19 +60,11 @@ This project is a fully responsive and modern portfolio website built entirely f
 ## 📁 Project Structure
 
 ├── index.html
-├── /css
-│ └── styles.css
-├── /js
-│ └── script.js
-├── /images
+│── styles.css
+│── script.js
+├── /img
 │ └── (optimized images)
-├── /lang
-│ └── en.json / es.json (for language support)
 └── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
