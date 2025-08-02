@@ -28,6 +28,15 @@ const translations = {
     project3Title: "Administrador de Finanzas",
     project3Desc:
       "Aplicación de gestion de finanzas con un panel de administración para gestionar usuarios, transacciones y estadísticas, proyecto en progreso.",
+    project4Title: "Administrador de Veterinaria",
+    project4Desc:
+      "Aplicación de gestion pacientes para una veterinaria con usuarios, veterinarios y usuarios, proyecto en progreso.",
+    project5Title: "Alpizar Landscaping",
+    project5Desc:
+      "Sitio web de una empresa familiar de jardinería, donde me encargué del desarrollo completo, desde la planificación hasta el mantenimiento.",
+    project6Title: "Smart Note generator",
+    project6Desc:
+      "Herramienta inteligente que guía a los empleados paso a paso en la resolución de problemas durante llamadas con clientes. Genera automáticamente notas detalladas del caso.",
     codeLink: "Código",
     demoLink: "Demo",
     experienceTitle: "Experiencia",
@@ -85,6 +94,15 @@ const translations = {
     project3Title: "Finances Management App",
     project3Desc:
       "Finance management application with an admin panel to manage users, transactions, and statistics. Project in progress.",
+    project4Title: "Veterinary Management App",
+    project4Desc:
+      "Patient management application for a veterinary clinic with users, veterinarians, and clients, project in progress.",
+    project5Title: "Alpizar Landscaping",
+    project5Desc:
+      "Website for a family landscaping business, where I handled the complete development from planning to maintenance.",
+    project6Title: "Smart Note generator",
+    project6Desc:
+      "Intelligent tool that guides employees step-by-step in solving problems during customer calls. Automatically generates detailed case notes.",
     codeLink: "Code",
     demoLink: "Demo",
     experienceTitle: "Experience",
