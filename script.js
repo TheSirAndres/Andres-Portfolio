@@ -19,15 +19,15 @@ const translations = {
     backendSkills: "Backend & Otros",
     designSkills: "Diseño & Herramientas",
     projectsTitle: "Mis Proyectos",
-    project1Title: "E-commerce Platform",
+    project1Title: "Cotizador de Seguros de Automoviles",
     project1Desc:
-      "Plataforma de comercio electrónico completa con carrito, pagos y panel de administración.",
-    project2Title: "Social Media Dashboard",
+      "Plataforma de cotizacion de seguros de automóviles con valor calculado dpendiendo del tipo de seguro, marca y modelo del vehículo.",
+    project2Title: "Programming Course Academy",
     project2Desc:
-      "Tablero analítico para redes sociales con visualización de datos en tiempo real.",
-    project3Title: "Task Management App",
+      "Academia de cursos de programación con un panel de administración para gestionar cursos, usuarios y estadísticas, proyecto en progreso.",
+    project3Title: "Administrador de Finanzas",
     project3Desc:
-      "Aplicación de gestión de tareas con arrastrar y soltar, recordatorios y colaboración en equipo.",
+      "Aplicación de gestion de finanzas con un panel de administración para gestionar usuarios, transacciones y estadísticas, proyecto en progreso.",
     codeLink: "Código",
     demoLink: "Demo",
     experienceTitle: "Experiencia",
@@ -76,15 +76,15 @@ const translations = {
     backendSkills: "Backend & Others",
     designSkills: "Design & Tools",
     projectsTitle: "My Projects",
-    project1Title: "E-commerce Platform",
+    project1Title: "Car Insurance Quote",
     project1Desc:
-      "Complete e-commerce platform with shopping cart, payments, and admin panel.",
-    project2Title: "Social Media Dashboard",
+      "Auto insurance quote platform with calculated value based on the type of insurance, make, and model of the vehicle.",
+    project2Title: "Programming Course Academy",
     project2Desc:
-      "Analytical dashboard for social media with real-time data visualization.",
-    project3Title: "Task Management App",
+      "Programming course academy with an admin panel to manage courses, users, and statistics, project in progress.",
+    project3Title: "Finances Management App",
     project3Desc:
-      "Task management application with drag and drop, reminders, and team collaboration.",
+      "Finance management application with an admin panel to manage users, transactions, and statistics. Project in progress.",
     codeLink: "Code",
     demoLink: "Demo",
     experienceTitle: "Experience",
